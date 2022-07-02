@@ -55,6 +55,5 @@
         "linter": "eslint"
       }
     }
-  },
-  "defaultProject": "porfolio-react"
+  }
 }
